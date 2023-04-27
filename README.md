@@ -9,23 +9,23 @@ Digits are formed using matches in the following way:
 
 ![image](https://user-images.githubusercontent.com/90305324/234870080-aa80b5d2-55bf-4f85-baa7-45a2828c4ec7.png)
 
-#Input
+# Input
 
 ▶The first line of the input contains a single integer T denoting the number of test cases. The description of T test cases follows.
 
 ▶The first and only line of each test case contains two space-separated integers A and B.
 
-#Output
+# Output
 
 ▶For each test case, print a single line containing one integer — the number of matches needed to write the result (A+B).
 
-#Constraints
+# Constraints
 
 ▶1≤T≤1,000
 
 ▶1≤A,B≤10^6
 
-#Sample 1:
+# Sample 1:
 
 <table>
   <tr>
@@ -49,7 +49,7 @@ Digits are formed using matches in the following way:
   </tr>
 </table>
 
-#Explanation:
+# Explanation:
 
 ▶ Example case 1: The result is 357. We need 5 matches to write the digit 3, 5 matches to write the digit 5 and 3 matches to write the digit 7.
 
